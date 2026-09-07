@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Top Outer Arch (Solid Black) -->
+    <path d="M 256 68 L 396 150 C 412 160 420 176 420 196 L 420 236 L 358 200 L 358 184 L 256 124 L 176 172 L 176 220 L 118 186 L 118 174 C 118 154 126 138 142 128 Z" fill="#0F172A" />
+
+    <!-- Center Diagonal Beam -->
+    <path d="M 374 196 L 202 308 L 152 278 L 324 166 Z" fill="#0F172A" fill-opacity="0.85" />
+
+    <!-- Bottom Outer Arch -->
+    <path d="M 256 444 L 116 362 C 100 352 92 336 92 316 L 92 276 L 154 312 L 154 328 L 256 388 L 336 340 L 336 292 L 394 326 L 394 338 C 394 358 386 374 370 384 Z" fill="#0F172A" />
+
+    <!-- Fold Overlap Depth Facets -->
+    <path d="M 358 184 L 420 220 L 374 250 L 324 214 Z" fill="#0F172A" fill-opacity="0.7" />
+    <path d="M 154 328 L 92 292 L 138 262 L 188 298 Z" fill="#0F172A" fill-opacity="0.7" />
+  </g>
+</svg>
